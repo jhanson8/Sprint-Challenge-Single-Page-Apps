@@ -1,3 +1,4 @@
+/* jshint esversion: 6 */
 import React from "react";
 
 export default function LocationCard({ name, type, dimension, residents }) {
